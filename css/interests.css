@@ -1,0 +1,59 @@
+body {
+    background-color: white;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+.header {
+    text-align: center;
+
+    background-color: #f6e1c4;
+}
+
+.header img {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.header .menu p {
+    display: inline-block;
+    margin-top: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #8c8c8c;
+}
+
+.header .menu .selected {
+    color: #7b95d1;
+}
+
+.header a {
+    text-decoration: none;
+    color: #8c8c8c;
+}
+
+.header a:hover {
+    color: #7b95d1;
+}
+
+.interests {
+    margin: 0;
+    width: 100%;
+    background-color: #f6e1c4;
+    text-align: center;
+
+
+}
+
+.interests img {
+    margin: auto;
+    padding-top: 3em;
+    padding-bottom: 3em;
+
+    max-width: 75%;
+    max-height: 75%;
+}
+
+.foot {
+    text-align: center;
+}
